@@ -1,4 +1,5 @@
 The purpose of the program is to build a local multiprocess chat app that enables servers and up to 10 users to communicate.
+
 To compile the project, just type make in the terminal
 1) First, start the server program by type ./server and server window will show up.
 2) In order to a create user,open another terminal window and locate to the same directory. Then type ./client <user name> in the terminal.
