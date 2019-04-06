@@ -1,3 +1,4 @@
+# Multi-Process-Chat-App
 The purpose of the program is to build a local multiprocess chat app that enables servers and up to 10 users to communicate.
 
 To compile the project, just type make in the terminal
